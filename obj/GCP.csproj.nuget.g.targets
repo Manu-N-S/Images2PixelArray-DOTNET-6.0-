@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)google.cloud.functions.hosting\2.1.0\build\net6.0\Google.Cloud.Functions.Hosting.targets" Condition="Exists('$(NuGetPackageRoot)google.cloud.functions.hosting\2.1.0\build\net6.0\Google.Cloud.Functions.Hosting.targets')" />
+  </ImportGroup>
+</Project>

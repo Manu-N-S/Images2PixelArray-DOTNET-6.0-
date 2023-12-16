@@ -1,0 +1,11 @@
+C:\Users\Asus\Downloads\PUBLISH\GCP.exe
+C:\Users\Asus\Downloads\PUBLISH\GCP.dll
+C:\Users\Asus\Downloads\PUBLISH\GCP.deps.json
+C:\Users\Asus\Downloads\PUBLISH\GCP.runtimeconfig.json
+C:\Users\Asus\Downloads\PUBLISH\GCP.pdb
+C:\Users\Asus\Downloads\PUBLISH\CloudNative.CloudEvents.dll
+C:\Users\Asus\Downloads\PUBLISH\CloudNative.CloudEvents.AspNetCore.dll
+C:\Users\Asus\Downloads\PUBLISH\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Asus\Downloads\PUBLISH\Google.Cloud.Functions.Framework.dll
+C:\Users\Asus\Downloads\PUBLISH\Google.Cloud.Functions.Hosting.dll
+C:\Users\Asus\Downloads\PUBLISH\opendicom-sharp.dll
